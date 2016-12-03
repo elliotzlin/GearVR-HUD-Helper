@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/res/merged/debug/layout-ldrtl-v17/back_button.xml",
+        "source": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/exploded-aar/google-vr-base/res/layout-ldrtl-v17/back_button.xml"
+    },
+    {
+        "merged": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/res/merged/debug/layout-ldrtl-v17/settings_button.xml",
+        "source": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/exploded-aar/google-vr-base/res/layout-ldrtl-v17/settings_button.xml"
+    }
+]

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/5e7c47ffa2332b6ec2bab2ca3fa630fc174c304f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-camera2renderscript/app/build/intermediates/pre-dexed/debug/classes_56d5c0263ee67f027731fa8fbe229203b2bdc1fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/53a8f7fd823f79197398d142a6067fc3306728ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc180fb857656dcc1a00e9b2b3149c44fa03c9aa">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-3dcursor/app/build/intermediates/pre-dexed/debug/classes_b37a69a1ad342fc5b7280fcf90dd7d7809290617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.gradle/caches/modules-2/files-2.1/com.google.protobuf.nano/protobuf-javanano/3.0.0-alpha-7/52587934797e3433992a9d69178a1471e4a8f85d/protobuf-javanano-3.0.0-alpha-7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="52587934797e3433992a9d69178a1471e4a8f85d">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-360photo/app/build/intermediates/pre-dexed/debug/protobuf-javanano-3.0.0-alpha-7_e91feb53c98a43d7f8e5c5304f1397a374eb3925.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/a4cef0d7b891ace55399bd87934e8b4e86c54060/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f76d1a4b7064912d67ad63235901b671b79892a">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-360photo/app/build/intermediates/pre-dexed/debug/classes_305e4937a73926409fd4e3d4f369dec73e1fd358.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-controls/app/src/main/libs/commons-math3-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-controls/app/build/intermediates/pre-dexed/debug/commons-math3-3.6.1_ce58d44c26a040773ca09b2f3a7cbecd7d9960c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/51283663e208bb0f591672f85229c2f3696d6ad0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-camera2renderscript/app/build/intermediates/pre-dexed/debug/classes_faf5b739621c7912eb7c3f977dcdbe1eed8210a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/ADT/adt-bundle-linux-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-camera2renderscript/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_fa9f81d0bff41904c73574abf0f894afb5b641eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/3acde10da349da27a55c8eb6315059002b50d032/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-camera2renderscript/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_8cf2b56ce50c398a46619b8e222509d0062ba84b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/7859ac92e5cb51e7f44a460ba92c4198ddab7bd9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7c3d450fcb0c645596f48281c0031fbbd29cf1">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-3dcursor/app/build/intermediates/pre-dexed/debug/classes_63ac7b591ea643901c3685d0207e3ecf48bd4ea0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/51283663e208bb0f591672f85229c2f3696d6ad0/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-camera2renderscript/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_f1209f9515a19263be21dbbf8f1508dbdea3c551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/ba6b71131bcf580119e1e4ef01bb1f5005d9f285/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-camera2renderscript/app/build/intermediates/pre-dexed/debug/classes_6e43674caae78302e07e8f851f43753b3207a34c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/f8b6f0f4af3a901b26f35f94a7327ea68ddaaf75/output/jars/libs/js.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a41374fb8754494e98483d7e0230da93b2171c0f">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-360photo/app/build/intermediates/pre-dexed/debug/js_daa3ae730b12458c2c4254fe99fe9fc075722c15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/f8b6f0f4af3a901b26f35f94a7327ea68ddaaf75/output/jars/libs/jnlua-android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="241636af8eadc1686a6bda1b521344c7a0e62f35">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-360photo/app/build/intermediates/pre-dexed/debug/jnlua-android_5aab3b8c251b7968a406357cab35a08341a80367.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/f8b6f0f4af3a901b26f35f94a7327ea68ddaaf75/output/jars/libs/VrApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df671d9b1eedc24ed4f0014949c97a95d50ac0c9">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-360photo/app/build/intermediates/pre-dexed/debug/VrApi_99ea59e5f3a40fadf66260f3027ca5b939c31d48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/ed37aec9d258fa789ee567a3525da141cac90dd5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-camera2renderscript/app/build/intermediates/pre-dexed/debug/classes_63f58ab33e7a8c0c0c704ffdc82c601705e9f977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/3acde10da349da27a55c8eb6315059002b50d032/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-camera2renderscript/app/build/intermediates/pre-dexed/debug/classes_1eb0f26462c4daea0651df26156e0530dd918bf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/d9086c145177bf3925f53a0640792f67293cf825/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3598b40f7d26920f8fd574791e51d639d700556f">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-cardboard-audio/app/build/intermediates/pre-dexed/debug/classes_481302472b214d63e0c9d4b90d113397d99ae479.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/f8b6f0f4af3a901b26f35f94a7327ea68ddaaf75/output/jars/libs/VrAppFramework.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="975c07b08c5cc7e2b0910952e8d3452e68076aca">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-360photo/app/build/intermediates/pre-dexed/debug/VrAppFramework_0a46625aa021b7b4c87c1aa7ac8f49d396a5eae4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/2e4caa73447b888c899647a437aa2c6db609a0f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-camera2renderscript/app/build/intermediates/pre-dexed/debug/classes_e3d5b168dfd9853593f2b438b028d6e2c7823559.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/ed37aec9d258fa789ee567a3525da141cac90dd5/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-camera2renderscript/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_3dc51b597936da77101cdd0261657d861879fd92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/1cffa41c928c7c788154e35fafd95a168629fd03/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e52f90c095989b6dd1e488418b58e1672e6c1cd">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-360photo/app/build/intermediates/pre-dexed/debug/classes_6db9a25d679ce88908b280aca38612a0351a0870.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/f8b6f0f4af3a901b26f35f94a7327ea68ddaaf75/output/jars/libs/SystemUtils.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c42bbdc8853728152b22d95f5787b908a565a38d">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-360photo/app/build/intermediates/pre-dexed/debug/SystemUtils_489592671babd01d58407868c1c9d62002439690.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/e69392bc40605e78941ebec10965922eaecbaa3a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8ed314ffeac950c8d98826f2598015e6909b7ec">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-360photo/app/build/intermediates/pre-dexed/debug/classes_9d9618a992c0150432be387c44e1cf4333fadd76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/52dba3f3c106925f34c1b0b72be5b396ce28d694/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="118d49c3dd1d7bf50d44d6fd5ad68986ef509aec">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-360photo/app/build/intermediates/pre-dexed/debug/classes_f3a1b358adbc06fdb90fa8ab14c88793993d5b9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/5e7c47ffa2332b6ec2bab2ca3fa630fc174c304f/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-camera2renderscript/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c64d75e8d91e1cc0fb08769dbb8533c4c7a0600c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/ba6b71131bcf580119e1e4ef01bb1f5005d9f285/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-camera2renderscript/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_1fadcc3a1e4e6d447b8dab1aeccf7238a4544699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/1c4e8d9b0501cc11d015c6a732fe341812a965b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77775d37b688556104c1e09a7c8573d4cbde0e9b">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-3dcursor/app/build/intermediates/pre-dexed/debug/classes_b96c164e06d166e3324f3cc545ebee4e8c25e69b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/f8b6f0f4af3a901b26f35f94a7327ea68ddaaf75/output/jars/libs/jsr223.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92a0a6474499c8d4d2ec8eaaf148841656262715">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-360photo/app/build/intermediates/pre-dexed/debug/jsr223_404cd7b6f739ffc6c1a80f328c4659d118f6a0a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/f8b6f0f4af3a901b26f35f94a7327ea68ddaaf75/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7acbb19387ec7c466a92fb1f262c13503196d8d3">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-360photo/app/build/intermediates/pre-dexed/debug/classes_d554f27e1e27f28e3f0bd565dd34ecab22a6c0f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/f8b6f0f4af3a901b26f35f94a7327ea68ddaaf75/output/jars/libs/jline-android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7477ba46daa8734de5c822747c7fcd472c7e067">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-360photo/app/build/intermediates/pre-dexed/debug/jline-android_cf2a24f14e120108c92f289a1a93db7734724fc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/f8b6f0f4af3a901b26f35f94a7327ea68ddaaf75/output/jars/libs/gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b79518129686ae5977f96f52051d3926edb18241">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-360photo/app/build/intermediates/pre-dexed/debug/gson-2.2.4_fb632ae08d3c0a35aad3d4e038b70dfa9b127279.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/fea6eb0c83553a2e49efc1f487471cad80aeff10/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d2ea9cdd5b272666e03c7977440b494b63db77c">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-360video/app/build/intermediates/pre-dexed/debug/classes_416a35a84ebb28eb8b3ffc93e46d8968b2d04e72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/parth/.android/build-cache/fd74bc0d18faf0727d8e3178355cc352998a74b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b7874fd97e4e02745361bd241b65352c19579017">
+        <dex dex="/home/parth/Documents/GearVRframeworkDemos/GearVRf-Demos-3.1/gvr-bullet/app/build/intermediates/pre-dexed/debug/classes_cd485eed9a1a69e309ca1f6359b72e79d34cd138.jar" />
+    </item>
+
+</items>

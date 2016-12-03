@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/res/merged/debug/layout-land/back_button.xml",
+        "source": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/exploded-aar/google-vr-base/res/layout-land/back_button.xml"
+    },
+    {
+        "merged": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/res/merged/debug/layout-land/ui_layer_with_portrait_support.xml",
+        "source": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/exploded-aar/google-vr-base/res/layout-land/ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/res/merged/debug/layout-land/settings_button.xml",
+        "source": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/exploded-aar/google-vr-base/res/layout-land/settings_button.xml"
+    }
+]
