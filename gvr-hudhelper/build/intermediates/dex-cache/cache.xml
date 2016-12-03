@@ -12,12 +12,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/src/main/libs/Vuforia.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="6b699057701166f25db2a4b2d537f899f6e57e24">
-        <dex dex="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ba35bc10879682f7c43fe76a7ff86db8253678f0/classes.dex" />
+        sha1="f5b9729417d9e86d9bba6068e4a84f05ace53fd4">
+        <dex dex="/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_6baf25ff82c6edd7f6c56072bf04030a80f5cec9/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -30,15 +30,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/exploded-aar/framework-debug/jars/libs/jline-android.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ac828e65f14eb8da8d2712423a2c5bda63ef2584">
-        <dex dex="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/transforms/dex/debug/folders/1000/10/jline-android_27d75627eaf36538bf9ef8eeeb4c56a0ddaedfd4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/exploded-aar/framework-debug/jars/libs/jnlua-android.jar"
         jumboMode="true"
         optimize="true"
@@ -48,29 +39,11 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/exploded-aar/framework-debug/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="cccdb5968a554f8f83cd5d0ea92125b6d9e6f84d">
-        <dex dex="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-framework-debug_14a0ded662dced0230c0bd2313b150b40b346125/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/exploded-aar/framework-debug/jars/libs/jnlua-android.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4d11472f98c1b134e3e60610fe114d6c788b7b2b">
-        <dex dex="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/transforms/dex/debug/folders/1000/10/jnlua-android_a5fa836694851d3c7083dadf325de38c6e840fde/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="26af43fec8bd734c317f734667e981ed354a9a74">
+        sha1="7d07b580c6459cdb4c1e4916c34004d1815363ce">
         <dex dex="/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8a09aee768f44cccdf5f750647b149225f1e50c3/classes.dex" />
     </item>
     <item
@@ -84,29 +57,11 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/exploded-aar/backend_daydream-debug/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="83b53911b98d94758433730cdccc2239b4d8cc30">
-        <dex dex="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-backend_daydream-debug_c68a3c98c34554276313ad2ac55702895fafec73/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/exploded-aar/google-vr-common/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6e52f90c095989b6dd1e488418b58e1672e6c1cd">
-        <dex dex="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-google-vr-common_bc64f78b6d2a87965e0fa847fd7b4fe8c79744b1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="f943682860a84c4f4fc1a7ae9ea0c90104a2dd33">
+        sha1="38e0d1b1e7ef40f8cdaae60ae9a4ae9075cb1a44">
         <dex dex="/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_87125d6cd1a6423ca97b5328acb7b46eb2964d4a/classes.dex" />
     </item>
     <item
@@ -116,7 +71,7 @@
         optimize="true"
         revision="25.0.0"
         sha1="52587934797e3433992a9d69178a1471e4a8f85d">
-        <dex dex="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/transforms/dex/debug/folders/1000/10/protobuf-javanano-3.0.0-alpha-7_385130cf10b9061d5f5717c74dcacd1d73296e33/classes.dex" />
+        <dex dex="/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/protobuf-javanano-3.0.0-alpha-7_385130cf10b9061d5f5717c74dcacd1d73296e33/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -126,15 +81,6 @@
         revision="25.0.0"
         sha1="cccdb5968a554f8f83cd5d0ea92125b6d9e6f84d">
         <dex dex="/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-framework-debug_8e3224aadfab7d14c5c70337e484f8dbed022b89/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ed9340de699d63b400f68f9048d5fe7e5122e9af">
-        <dex dex="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_829ed3081f56b5bb408d10e6863a4dc00e28b606/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -156,24 +102,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/exploded-aar/framework-debug/jars/libs/gson-2.2.4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8e1885f6ec79ec6ed0765e0bd19a44cb1ce1b98d">
-        <dex dex="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_e44169ddf1d630ee768af01983f0767eaa32d36c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/exploded-aar/backend_oculus-debug/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a3d8433577ab4376ea3940e7214b1fa0f20f25fe">
-        <dex dex="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-backend_oculus-debug_488c7573ac4d70c987e232fdc0628e63857839b1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/exploded-aar/framework-debug/jars/libs/jsr223.jar"
         jumboMode="true"
         optimize="true"
@@ -192,39 +120,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/exploded-aar/google-vr-base/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7f76d1a4b7064912d67ad63235901b671b79892a">
-        <dex dex="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-google-vr-base_4f181b970fb62deaf2bc0c977e07171354bfe04c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/exploded-aar/framework-debug/jars/libs/jsr223.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="292bdc8989f20fe61a26ffde813fb4ade7c9eb0d">
-        <dex dex="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr223_43febdf014c4d35d8afb926425b138df1be46f1e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/exploded-aar/framework-debug/jars/libs/jline-android.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="ac828e65f14eb8da8d2712423a2c5bda63ef2584">
         <dex dex="/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/jline-android_137e6496a1b54bbc6ea4c867c477aa90bafa370e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/exploded-aar/framework-debug/jars/libs/js.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b9e691a002303f3cca21655b731387d531f4d4b0">
-        <dex dex="/Users/elliotlin/Documents/F_OS Projects/GearVRf-Demos-3.1/gvr-sceneobjects/app/build/intermediates/transforms/dex/debug/folders/1000/10/js_c4dd0e9a6c614005f16fc2226534333e5a4970f2/classes.dex" />
     </item>
 
 </items>

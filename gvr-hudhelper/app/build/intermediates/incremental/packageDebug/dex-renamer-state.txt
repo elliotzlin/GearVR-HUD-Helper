@@ -1,4 +1,4 @@
-#Sat Dec 03 13:46:32 PST 2016
+#Sat Dec 03 14:31:49 PST 2016
 base.0=/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_87125d6cd1a6423ca97b5328acb7b46eb2964d4a
 renamed.1=classes.dex
 renamed.0=classes2.dex

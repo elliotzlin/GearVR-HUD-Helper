@@ -49,13 +49,13 @@
                     "endOffset": 269
                 },
                 "from": {
-                    "file": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/exploded-aar/framework-debug/res/values/values.xml",
+                    "file": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/src/main/res/values/dimens.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 55,
+                        "startOffset": 89,
                         "endColumn": 57,
-                        "endOffset": 108
+                        "endOffset": 142
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 325
                 },
                 "from": {
-                    "file": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/exploded-aar/framework-debug/res/values/values.xml",
+                    "file": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/src/main/res/values/dimens.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 113,
+                        "startOffset": 147,
                         "endColumn": 55,
-                        "endOffset": 164
+                        "endOffset": 198
                     }
                 }
             },
@@ -837,14 +837,14 @@
                     "endOffset": 7313
                 },
                 "from": {
-                    "file": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/exploded-aar/framework-debug/res/values/values.xml",
+                    "file": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/src/main/res/values/styles.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 679,
-                        "endLine": 20,
+                        "startOffset": 186,
+                        "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 965
+                        "endOffset": 472
                     }
                 }
             },
@@ -858,14 +858,14 @@
                     "endOffset": 7473
                 },
                 "from": {
-                    "file": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/exploded-aar/framework-debug/res/values/values.xml",
+                    "file": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/src/main/res/values/styles.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 970,
-                        "endLine": 23,
+                        "startOffset": 510,
+                        "endLine": 17,
                         "endColumn": 12,
-                        "endOffset": 1125
+                        "endOffset": 665
                     }
                 }
             },

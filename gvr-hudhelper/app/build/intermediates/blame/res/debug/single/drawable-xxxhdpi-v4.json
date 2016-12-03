@@ -6,9 +6,5 @@
     {
         "merged": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/quantum_ic_settings_white_24.png",
         "source": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/exploded-aar/google-vr-base/res/drawable-xxxhdpi-v4/quantum_ic_settings_white_24.png"
-    },
-    {
-        "merged": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/gearvr_logo.jpg",
-        "source": "/Users/elliotlin/Documents/F_OS Projects/GearVR-HUD-Helper/gvr-hudhelper/app/src/main/res/drawable-xxxhdpi/gearvr_logo.jpg"
     }
 ]
